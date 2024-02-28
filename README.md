@@ -38,7 +38,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **https://www.loom.com/share/cf0c131fe77f4932918eb72b5eda2804?sid=39b2bc68-c3d6-45d3-9b24-250470f5ea69**
+GIF created with 
+*https://submissions.us-east-1.linodeobjects.com/and101/qN2SJCp6.gif*
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
